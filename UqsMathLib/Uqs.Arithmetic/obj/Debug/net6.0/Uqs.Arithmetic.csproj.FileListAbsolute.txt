@@ -1,0 +1,11 @@
+c:\Users\dmaci\Documents\Projetos\pragmatic-test-driven-development-in-csharp-and-dot-net\UqsMathLib\Uqs.Arithmetic\bin\Debug\net6.0\Uqs.Arithmetic.deps.json
+c:\Users\dmaci\Documents\Projetos\pragmatic-test-driven-development-in-csharp-and-dot-net\UqsMathLib\Uqs.Arithmetic\bin\Debug\net6.0\Uqs.Arithmetic.dll
+c:\Users\dmaci\Documents\Projetos\pragmatic-test-driven-development-in-csharp-and-dot-net\UqsMathLib\Uqs.Arithmetic\bin\Debug\net6.0\Uqs.Arithmetic.pdb
+c:\Users\dmaci\Documents\Projetos\pragmatic-test-driven-development-in-csharp-and-dot-net\UqsMathLib\Uqs.Arithmetic\obj\Debug\net6.0\Uqs.Arithmetic.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\dmaci\Documents\Projetos\pragmatic-test-driven-development-in-csharp-and-dot-net\UqsMathLib\Uqs.Arithmetic\obj\Debug\net6.0\Uqs.Arithmetic.AssemblyInfoInputs.cache
+c:\Users\dmaci\Documents\Projetos\pragmatic-test-driven-development-in-csharp-and-dot-net\UqsMathLib\Uqs.Arithmetic\obj\Debug\net6.0\Uqs.Arithmetic.AssemblyInfo.cs
+c:\Users\dmaci\Documents\Projetos\pragmatic-test-driven-development-in-csharp-and-dot-net\UqsMathLib\Uqs.Arithmetic\obj\Debug\net6.0\Uqs.Arithmetic.csproj.CoreCompileInputs.cache
+c:\Users\dmaci\Documents\Projetos\pragmatic-test-driven-development-in-csharp-and-dot-net\UqsMathLib\Uqs.Arithmetic\obj\Debug\net6.0\Uqs.Arithmetic.dll
+c:\Users\dmaci\Documents\Projetos\pragmatic-test-driven-development-in-csharp-and-dot-net\UqsMathLib\Uqs.Arithmetic\obj\Debug\net6.0\refint\Uqs.Arithmetic.dll
+c:\Users\dmaci\Documents\Projetos\pragmatic-test-driven-development-in-csharp-and-dot-net\UqsMathLib\Uqs.Arithmetic\obj\Debug\net6.0\Uqs.Arithmetic.pdb
+c:\Users\dmaci\Documents\Projetos\pragmatic-test-driven-development-in-csharp-and-dot-net\UqsMathLib\Uqs.Arithmetic\obj\Debug\net6.0\ref\Uqs.Arithmetic.dll
